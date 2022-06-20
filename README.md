@@ -1,2 +1,2 @@
-# django-res-api-client
+# django-rest-api-client
  
