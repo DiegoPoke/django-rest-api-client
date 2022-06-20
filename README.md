@@ -1,0 +1,2 @@
+# django-res-api-client
+ 
