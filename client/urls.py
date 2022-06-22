@@ -23,6 +23,7 @@ from api.views import ClientViewSet
 router = routers.DefaultRouter()
 router.register('cliente', ClientViewSet)
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls')),
